@@ -17,6 +17,12 @@ node-gyp is only configured for Mac, but this project will support Windows and L
 npm install robotjs
 ```
 
+## Ubuntu Linux requirements
+
+```
+sudo apt-get install libxtst-dev
+```
+
 ## Examples
 Get the mouse location and move it. 
 
